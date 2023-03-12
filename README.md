@@ -31,7 +31,7 @@ sudo systemctl status nginx
 - 在Ubuntu下Nginx的配置文件位置在 `/etc/nginx/sites-available` 目录下
 
 ## 使用Nginx
-
+1. 启动nginx
 
 
 
